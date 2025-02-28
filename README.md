@@ -1,3 +1,3 @@
 # JS-Apps-Course-Applications
-Several applications created as part of the SoftUni course JS Apps. 
-In every project there is a server folder, run by the following command in the VSC terminal: node server.js
+Several applications created as part of the SoftUni JS Apps course.
+Every project has a server folder. In order to start the server, run "node server.js" command in the VSC terminal.
